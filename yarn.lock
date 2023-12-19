@@ -1263,10 +1263,10 @@
   resolved "https://registry.yarnpkg.com/@csstools/selector-specificity/-/selector-specificity-2.2.0.tgz#2cbcf822bf3764c9658c4d2e568bd0c0cb748016"
   integrity sha512-+OJ9konv95ClSTOJCmMZqpd5+YGsB2S+x6w3E1oaM8UuR5j8nTNHYSz8c9BEPGDOCMQYIEEGlVPj/VY64iTbGw==
 
-"@delivus/react-open-layers@^0.3.16":
-  version "0.3.16"
-  resolved "https://registry.yarnpkg.com/@delivus/react-open-layers/-/react-open-layers-0.3.16.tgz#419810ac5adda71220930c0b540f34d0edb83c3c"
-  integrity sha512-du17WxfhLUxYO7WVfmXGVpRi5O0AyKCOigaD72rOI5eWcAkRo2G8nhvqPSpmHnGV5Xm+qVcxZQipktdsoqdbMA==
+"@delivus/react-open-layers@^1.1.0":
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/@delivus/react-open-layers/-/react-open-layers-1.2.0.tgz#62024ea948eb90dbe525f05cbbb996c59f69768a"
+  integrity sha512-SJV8womw0HaGKbIWy06GHoam4uTEnidJfotmbH0qFVt2DSMxoYeNHXiImFVgXHdapzgWTWNZCGg12HBQpzCiGA==
   dependencies:
     invariant "^2.2.4"
     loadjs "^4.3.0-rc1"
